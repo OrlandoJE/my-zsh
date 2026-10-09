@@ -1,6 +1,6 @@
 # my zsh
 
-just simple
+this covers zsh installation and basic configuration for a smooth shell experience. if you want to dive into the tooling i use through zsh, visit [this repo's wiki](https://github.com/OrlandoJE/my-zsh/wiki) 
 
 ## installation
 
