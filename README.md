@@ -101,4 +101,4 @@ eval "$(starship init zsh)"
 
 to configure starship, create a `~/.config/starship.toml` file and add your configuration. you can find the full documentation [here](https://starship.rs/config/).
 
-i left my preferred configuration (`~/.config/` folder) in this repository, you can use it as a reference or copy it to your own configuration.
+> i left my preferred configuration (`~/.config/` folder) in this repository, you can use it as a reference or copy it to your own configuration.
